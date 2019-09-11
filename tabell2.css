@@ -1,0 +1,36 @@
+body{
+    background-color:silver;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse:collapse;
+    height: 32px;
+}
+
+ table {
+    width: 50%;
+    table-layout:fixed;
+    background-color:darkgreen;
+}
+tr:nth-child(even) {
+    background-color:olive;
+}
+
+tr:nth-child(1){ background-color:hotpink; }
+tr:nth-child(3){color:white;}
+tr:nth-child(5){color:white;}
+ 
+.center{
+    text-align:center;
+}
+
+.left {
+    text-align:left;
+}
+
+.right{
+    text-align:right;
+}
+
+    
+    
