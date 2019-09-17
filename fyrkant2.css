@@ -1,0 +1,29 @@
+table,th, td{
+    border:1px solid black;
+    border-collapse:collapse;
+    height:90px;
+    width: 30%;
+ 
+}
+
+
+
+.blue {
+    background-color:cadetblue;
+}
+
+.gul {
+    background-color:yellow;
+}
+
+.red {
+    background-color:red;
+}
+    
+ .svart {
+     background-color:black;
+}
+
+.green {
+    background-color:lime;
+}
